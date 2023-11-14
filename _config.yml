@@ -6,3 +6,6 @@ theme: jekyll-theme-slate
 include:
   - assets
   - README.md
+author: Casiano
+curso: 2023/2024
+
